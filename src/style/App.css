@@ -1,0 +1,31 @@
+.cardbox{
+    width:1300px;
+    height:250px;
+    display: flex;
+}
+
+.card{
+    width:230px;
+    height:305px;
+    margin-left: 17px;
+}
+
+.btn-danger,.btn-secondary{
+    width:90px;
+    margin-top: 80px;
+}
+
+.btn-danger{
+    margin-right: 50px;
+}
+.btn-primary{
+    margin-bottom: 10px;
+}
+.secondname,.seconddesc{
+    width:140px !important;
+    height:54px;
+}
+
+.upt{
+    margin-top: 10px;
+}
